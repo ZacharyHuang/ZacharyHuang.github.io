@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ZacharyhHuang.github.io/"/>
-  <updated>2017-06-01T14:20:09.796Z</updated>
+  <updated>2017-06-01T14:32:11.663Z</updated>
   <id>http://ZacharyhHuang.github.io/</id>
   
   <author>
@@ -16,13 +16,18 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello world</title>
+    <title>Hello world</title>
     <link href="http://ZacharyhHuang.github.io/2017/06/01/hello-world/"/>
     <id>http://ZacharyhHuang.github.io/2017/06/01/hello-world/</id>
     <published>2017-06-01T14:20:09.000Z</published>
-    <updated>2017-06-01T14:20:09.796Z</updated>
+    <updated>2017-06-01T14:32:11.663Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Today-is-Children’s-Day"><a href="#Today-is-Children’s-Day" class="headerlink" title="Today is Children’s Day"></a>Today is Children’s Day</h2><p>May the force be with you!</p>
+]]></content>
     
     <summary type="html">
+    
+      &lt;h2 id=&quot;Today-is-Children’s-Day&quot;&gt;&lt;a href=&quot;#Today-is-Children’s-Day&quot; class=&quot;headerlink&quot; title=&quot;Today is Children’s Day&quot;&gt;&lt;/a&gt;Today is Children
     
     </summary>
     
