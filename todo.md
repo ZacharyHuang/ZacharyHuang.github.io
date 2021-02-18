@@ -21,4 +21,3 @@ order: 4
 ## 学习
 - K8S
 - 编曲
-- Electron

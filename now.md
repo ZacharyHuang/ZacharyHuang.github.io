@@ -27,3 +27,6 @@ order: 3
 ## 音乐
 - [x] 《Rhapsody in Blue》
 - [x] 《回家》
+
+## 学习
+- [ ] Electron
