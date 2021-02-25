@@ -38,5 +38,5 @@ order: 2
 | 精通 | 熟练 | 了解 |
 | :----: | :----: | :----: |
 | C#   |      | python,C/C++,SQL,html,javascript |
-|      | Azure | Spark,AngularJS |
+|      |      | Azure部署,docker,Spark,tensorflow,AngularJS |
 | 业务逻辑实现,数据处理流程设计 | 系统设计 | 机器学习,特征工程 |
